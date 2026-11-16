@@ -8,8 +8,8 @@ I design, host and run IT environments for small and mid-size businesses, mainly
 - **Virtualization & hosting:** Proxmox VE, Proxmox Backup Server, VLAN/SDN per customer
 - **Windows Server:** Active Directory, Remote Desktop Services, SQL Server, migrations and upgrades
 - **Microsoft 365:** Exchange Online, Entra ID, licensing
-- **Backup:** Acronis Cyber Protect, Druva inSync, Keepit
-- **Security:** SentinelOne / Guardz, ESET
+- **Backup:** cloud and on-premise backup, recovery testing
+- **Security:** endpoint protection, monitoring and incident response
 - **Automation & AI:** PowerShell, Python, Claude (Claude Code, MCP integrations)
 
 ### Current focus
